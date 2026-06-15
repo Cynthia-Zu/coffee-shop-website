@@ -2,7 +2,7 @@
 ![Home](Home.png)
 
 ### Front Page
-![Front Page](Front Page.png)
+![Front Page](FrontPage.png)
 
 ### About Page
 ![About](About-2.png)
