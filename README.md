@@ -2,16 +2,16 @@
 ![Home](Home.png)
 
 ### Front Page
-![Front-Page](Front-Page.png)
+![Front Page](Front%20Page.png)
 
 ### About Page
-![About-2](About-2.png)
+![About](About%202.png)
 
 ### Menu Page
-![Menu-2](Menu-2.png)
+![Menu](Menu%202.png)
 
 ### Gallery Page
-![Gallery-2](Gallery-2.png)
+![Gallery](Gallery%202.png)
 
 ### Contact Page
-![Contact-1](Contact-1.png)
+![Contact](Contact%201.png)
